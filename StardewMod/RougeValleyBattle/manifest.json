@@ -1,0 +1,11 @@
+﻿{
+  "Name": "RougeValley Battle",
+  "Author": "BC Dev",
+  "Version": "1.0.0",
+  "Description": "Stumbling upon a vast sewer system, fearing no monster or creepy crawly, you decide to venture into the depths armed 
+  with familiar weapons in search of never before seen armor and weapons. For personal gain or for the greater good, you decide!",
+  "UniqueID": "BCDev.RougeValleyBattle",
+  "EntryDll": "RougeValleyBattle.dll",
+  "MinimumApiVersion": "2.10.0",
+  "UpdateKeys": []
+}
